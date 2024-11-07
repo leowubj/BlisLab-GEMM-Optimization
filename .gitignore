@@ -1,0 +1,11 @@
+# hide our key pair
+*.pem
+
+*.o
+*.out
+# exe
+benchmark-blas
+benchmark-blislab
+benchmark-naive
+
+.vscode

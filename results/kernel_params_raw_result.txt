@@ -1,0 +1,193 @@
+NEW RUN
+4	8	64	64	512
+GeoMean  = 19.98
+GeoMean  = 19.95
+GeoMean  = 19.92
+4	8	64	64	1024
+GeoMean  = 19.94
+GeoMean  = 19.91
+GeoMean  = 19.93
+4	8	64	128	512
+GeoMean  = 19.77
+GeoMean  = 19.54
+GeoMean  = 19.48
+4	8	64	128	1024
+GeoMean  = 19.66
+GeoMean  = 19.63
+GeoMean  = 19.68
+4	8	64	256	512
+GeoMean  = 19.83
+GeoMean  = 19.84
+GeoMean  = 19.82
+4	8	64	256	1024
+GeoMean  = 19.98
+GeoMean  = 20.29
+GeoMean  = 20.25
+4	8	64	512	512
+GeoMean  = 20.28
+GeoMean  = 20.29
+GeoMean  = 20.29
+4	8	64	512	1024
+GeoMean  = 20.45
+GeoMean  = 20.43
+GeoMean  = 20.43
+4	8	128	64	512
+GeoMean  = 20.24
+GeoMean  = 20.27
+GeoMean  = 20.30
+4	8	128	64	1024
+GeoMean  = 20.34
+GeoMean  = 20.29
+GeoMean  = 20.37
+4	8	128	128	512
+GeoMean  = 20.54
+GeoMean  = 20.48
+GeoMean  = 20.41
+4	8	128	128	1024
+GeoMean  = 20.61
+GeoMean  = 20.57
+GeoMean  = 20.59
+4	8	128	256	512
+GeoMean  = 20.54
+GeoMean  = 20.50
+GeoMean  = 20.55
+4	8	128	256	1024
+GeoMean  = 20.75
+GeoMean  = 20.72
+GeoMean  = 20.73
+4	8	128	512	512
+GeoMean  = 20.63
+GeoMean  = 20.57
+GeoMean  = 20.56
+4	8	128	512	1024
+GeoMean  = 20.76
+GeoMean  = 20.74
+GeoMean  = 20.76
+4	8	256	64	512
+GeoMean  = 20.43
+GeoMean  = 20.26
+GeoMean  = 20.40
+4	8	256	64	1024
+GeoMean  = 19.52
+GeoMean  = 19.74
+GeoMean  = 20.55
+4	8	256	128	512
+GeoMean  = 20.73
+GeoMean  = 20.65
+GeoMean  = 20.62
+4	8	256	128	1024
+GeoMean  = 20.81
+GeoMean  = 20.73
+GeoMean  = 20.82
+4	8	256	256	512
+GeoMean  = 20.70
+GeoMean  = 20.59
+GeoMean  = 20.67
+4	8	256	256	1024
+GeoMean  = 20.90
+GeoMean  = 20.75
+GeoMean  = 20.81
+4	8	512	64	512
+GeoMean  = 20.19
+GeoMean  = 20.32
+GeoMean  = 20.41
+4	8	512	64	1024
+GeoMean  = 20.37
+GeoMean  = 20.48
+GeoMean  = 20.44
+4	8	512	128	512
+GeoMean  = 20.62
+GeoMean  = 20.64
+GeoMean  = 20.63
+4	8	512	128	1024
+GeoMean  = 20.71
+GeoMean  = 20.69
+GeoMean  = 20.69
+4	16	64	64	512
+GeoMean  = 20.92
+GeoMean  = 20.93
+GeoMean  = 20.88
+4	16	64	64	1024
+GeoMean  = 20.97
+GeoMean  = 20.87
+GeoMean  = 20.88
+4	16	64	128	512
+GeoMean  = 20.81
+GeoMean  = 20.75
+GeoMean  = 20.79
+4	16	64	128	1024
+GeoMean  = 20.78
+GeoMean  = 20.84
+GeoMean  = 20.84
+4	16	64	256	512
+GeoMean  = 20.99
+GeoMean  = 20.94
+GeoMean  = 20.92
+4	16	64	256	1024
+GeoMean  = 20.93
+GeoMean  = 21.06
+GeoMean  = 21.04
+4	16	64	512	512
+GeoMean  = 21.02
+GeoMean  = 21.08
+GeoMean  = 21.07
+4	16	64	512	1024
+GeoMean  = 21.23
+GeoMean  = 21.18
+GeoMean  = 20.98
+4	16	128	64	512
+GeoMean  = 21.03
+GeoMean  = 20.97
+GeoMean  = 21.39
+4	16	128	64	1024
+GeoMean  = 20.58
+GeoMean  = 18.66
+GeoMean  = 20.29
+4	16	128	128	512
+GeoMean  = 20.90
+GeoMean  = 21.24
+GeoMean  = 21.40
+4	16	128	128	1024
+GeoMean  = 21.57
+GeoMean  = 21.48
+GeoMean  = 21.60
+4	16	128	256	512
+GeoMean  = 21.37
+GeoMean  = 21.36
+GeoMean  = 21.52
+4	16	128	256	1024
+GeoMean  = 21.77
+GeoMean  = 21.60
+GeoMean  = 21.68
+4	16	128	512	512
+GeoMean  = 21.53
+GeoMean  = 21.51
+GeoMean  = 21.58
+4	16	128	512	1024
+GeoMean  = 21.72
+GeoMean  = 21.70
+GeoMean  = 21.74
+4	16	256	64	512
+GeoMean  = 21.77
+GeoMean  = 21.65
+GeoMean  = 21.69
+4	16	256	64	1024
+GeoMean  = 21.80
+GeoMean  = 21.85
+GeoMean  = 21.94
+4	16	256	128	512
+GeoMean  = 21.83
+GeoMean  = 21.95
+GeoMean  = 21.81
+4	16	256	128	1024
+GeoMean  = 22.04
+GeoMean  = 21.94
+GeoMean  = 22.04
+4	16	256	256	512
+GeoMean  = 21.86
+GeoMean  = 21.93
+GeoMean  = 21.91
+4	16	256	256	1024
+GeoMean  = 21.85
+GeoMean  = 22.12
+GeoMean  = 21.98

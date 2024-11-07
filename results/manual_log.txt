@@ -1,0 +1,6 @@
+Tested on "A representative subset of the first list."
+
+1. Packing
+vanilla version: 2.41
+loop unroll: no boundary-case version: 2.42
+loop unroll: boundary-case version: 2.42

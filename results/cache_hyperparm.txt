@@ -1,0 +1,22 @@
+Using the command lscpu | grep -i cache , we can find that the size for the three level caches of our
+system:
+L1d cache:                       64 KiB (1 instance)
+L1i cache:                       64 KiB (1 instance)
+L2 cache:                        1 MiB (1 instance)
+L3 cache:                        32 MiB (1 instance)
+
+Hyperparameters:
+
+Nr: has to be 4 for a row of C to fit into one register.
+Mr: Tried 4,8,16
+Kc: Kc*Mr block of A has to fit into L1 cache (64KB)
+	Kc * Mr < 64*1024/8 = 8192 = 2^13
+	
+Nc: Nc*Kc block of B has to fit into L2 cache (1 MB)
+	Nc*Kc < 1024^2/8 = 128*1024
+
+    e.g. Kc = 512 -> Nc < 128*2 = 256 -> Nc <= 128
+	
+Mc: Mc*Kc block of A has to fit into L3 cache (32 MB)
+	Nc*Kc < 32*1024^2/8 = 4*1024^2
+	
